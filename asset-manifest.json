@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-diginext/static/css/main.a3b5f279.chunk.css",
-    "main.js": "/react-diginext/static/js/main.0de41e38.chunk.js",
-    "main.js.map": "/react-diginext/static/js/main.0de41e38.chunk.js.map",
-    "runtime-main.js": "/react-diginext/static/js/runtime-main.5c6644ec.js",
-    "runtime-main.js.map": "/react-diginext/static/js/runtime-main.5c6644ec.js.map",
-    "static/js/2.0d9be16d.chunk.js": "/react-diginext/static/js/2.0d9be16d.chunk.js",
-    "static/js/2.0d9be16d.chunk.js.map": "/react-diginext/static/js/2.0d9be16d.chunk.js.map",
-    "static/js/3.c2b35c01.chunk.js": "/react-diginext/static/js/3.c2b35c01.chunk.js",
-    "static/js/3.c2b35c01.chunk.js.map": "/react-diginext/static/js/3.c2b35c01.chunk.js.map",
+    "main.js": "/react-diginext/static/js/main.afa43a93.chunk.js",
+    "main.js.map": "/react-diginext/static/js/main.afa43a93.chunk.js.map",
+    "runtime-main.js": "/react-diginext/static/js/runtime-main.89bd8f1a.js",
+    "runtime-main.js.map": "/react-diginext/static/js/runtime-main.89bd8f1a.js.map",
+    "static/js/2.f553d273.chunk.js": "/react-diginext/static/js/2.f553d273.chunk.js",
+    "static/js/2.f553d273.chunk.js.map": "/react-diginext/static/js/2.f553d273.chunk.js.map",
+    "static/js/3.f65c6231.chunk.js": "/react-diginext/static/js/3.f65c6231.chunk.js",
+    "static/js/3.f65c6231.chunk.js.map": "/react-diginext/static/js/3.f65c6231.chunk.js.map",
     "index.html": "/react-diginext/index.html",
     "static/css/main.a3b5f279.chunk.css.map": "/react-diginext/static/css/main.a3b5f279.chunk.css.map",
-    "static/js/2.0d9be16d.chunk.js.LICENSE.txt": "/react-diginext/static/js/2.0d9be16d.chunk.js.LICENSE.txt",
+    "static/js/2.f553d273.chunk.js.LICENSE.txt": "/react-diginext/static/js/2.f553d273.chunk.js.LICENSE.txt",
     "static/media/index.css": "/react-diginext/static/media/IRANSansBold.cd9ebcd6.ttf",
     "static/media/New-logo.75bbc97b.png": "/react-diginext/static/media/New-logo.75bbc97b.png",
     "static/media/arrow.69f8ba5d.svg": "/react-diginext/static/media/arrow.69f8ba5d.svg",
@@ -44,9 +44,9 @@
     "static/media/social-twitter.b9d5f567.svg": "/react-diginext/static/media/social-twitter.b9d5f567.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c6644ec.js",
-    "static/js/2.0d9be16d.chunk.js",
+    "static/js/runtime-main.89bd8f1a.js",
+    "static/js/2.f553d273.chunk.js",
     "static/css/main.a3b5f279.chunk.css",
-    "static/js/main.0de41e38.chunk.js"
+    "static/js/main.afa43a93.chunk.js"
   ]
 }
